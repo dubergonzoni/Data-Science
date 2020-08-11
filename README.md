@@ -28,5 +28,5 @@ Graduated in Physiotherapy at the Ribeirão Preto Medical School of the Universi
 ## Projects:
  A series of projetcs developed during the Sigmoidal course "Data Science na Prática"
 
-* **Analisando os Dados do Airbnb_Perth Western Australia:** 
+* **Analisando os Dados do Airbnb_Perth Western Australia:** https://github.com/dubergonzoni/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Perth_WA.ipynb
 ---
