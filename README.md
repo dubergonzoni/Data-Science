@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-eduardojunqueira-red.svg)](https://www.linkedin.com/in/eduardo-bergonzoni-junqueira/?locale=en_US) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
 <p align="center">
-  <img src="https://github.com/dubergonzoni/Data-Science/blob/master/github_readme.png" width="200" height="400" >
+  <img src="https://github.com/dubergonzoni/Data-Science/blob/master/github_readme.png" width="400" height="400" >
 </p>
 
 # Eduardo Bergonzoni Junqueira
