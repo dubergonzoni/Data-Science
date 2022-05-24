@@ -10,7 +10,7 @@
 I am a data scientist and my background includes research in Neuroscience and Motor Control. I'm developing abilities to extract knowledge from data to build business solutions using Python with Machine Learning and Deep Learning techniques.
 
 
-**Background in:** Python, Numpy, Pandas, ScikitLearn, Time Series, JavaScript, Neuroimaging and Statistics.
+**Background in:** Python, Numpy, Pandas, ScikitLearn, Time Series, MySQL, Docker, Apache Airflow, Minio, JavaScript, Neuroimaging and Statistics.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-bergonzoni-junqueira/?locale=en_US)
@@ -20,4 +20,7 @@ I am a data scientist and my background includes research in Neuroscience and Mo
 ## Projects:
 
 * **Analysing data from Airbnb - Perth Western Australia:** https://github.com/dubergonzoni/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Perth_WA.ipynb
+---
+
+* **Human Resources Analytics:** https://github.com/dubergonzoni/human-resources-analytics
 ---
