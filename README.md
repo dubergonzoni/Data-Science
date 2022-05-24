@@ -18,7 +18,6 @@ I am a data scientist and my background includes research in Neuroscience and Mo
 
 
 ## Projects:
- A series of projetcs developed during the Sigmoidal course "Data Science na Prática"
 
-* **Analisando os Dados do Airbnb_Perth Western Australia:** https://github.com/dubergonzoni/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Perth_WA.ipynb
+* **Analysing data from Airbnb - Perth Western Australia:** https://github.com/dubergonzoni/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Perth_WA.ipynb
 ---
