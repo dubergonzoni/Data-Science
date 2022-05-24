@@ -19,7 +19,7 @@ I am a data scientist and my background includes research in Neuroscience and Mo
 
 ## Projects:
 
-* **Analysing data from Airbnb - Perth Western Australia:** https://github.com/dubergonzoni/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Perth_WA.ipynb
+* **Analysing data from Airbnb - Perth/Western Australia:** https://github.com/dubergonzoni/Data-Science/blob/master/Analisando_os_Dados_do_Airbnb_Perth_WA.ipynb
 ---
 
 * **Human Resources Analytics:** https://github.com/dubergonzoni/human-resources-analytics
