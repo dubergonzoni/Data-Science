@@ -12,9 +12,12 @@ I am a data scientist and my background includes research in Neuroscience and Mo
 
 **Background in:** Python, Numpy, Pandas, ScikitLearn, Time Series, MySQL, Docker, Apache Airflow, Minio, R, Matlab, Neuroimaging and Statistics.
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/eduardo-bergonzoni-junqueira/?locale=en_US)
-* [Twiter](https://twitter.com/dubergonzoni)
+<div> 
+  <a href = "mailto:dubergonzoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-bergonzoni-junqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+
 
 
 ## Projects:
